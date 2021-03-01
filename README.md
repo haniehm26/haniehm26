@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h3 align="center">:dizzy: I'll burst this BUBBLE very soon :dizzy:</h3>
 </p>
 
-# Honio:ocean:
+# :ocean:Honio
 Some years ago, one of my friends wrongly called me Honio instead of Hanieh. It was just a funny mistake because of the name of Ponyo (it is an Anime). From that day, some call me Honio.
-## About Me🌱
+## 🌱About Me
 I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in the last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best path for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
 
-## Languages⚡
+## ⚡Languages
 [![](https://shields.io/badge/-java-yellowgreen?style=for-the-badge&logo=java)](https://www.java.com)
 [![](https://shields.io/badge/-python-yellowgreen?style=for-the-badge&logo=python)](https://www.python.org)
 
-## Cantact📫
+## 📫Cantact
 [![](https://img.shields.io/badge/-gmail-inactive?style=for-the-badge&logo=gmail)](mailto:haniehmahdavi26@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-inactive?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanieh-mahdavi/)
