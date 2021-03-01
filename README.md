@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HoniO :ocean:
-## About Me 
+# :ocean:HoniO
+## 🌱About Me
 I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best direction for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
-## Languages
+## ⚡Languages
 [![](https://shields.io/badge/-java-yellowgreen?style=for-the-badge&logo=java)](https://www.java.com)
 [![](https://shields.io/badge/-python-yellowgreen?style=for-the-badge&logo=python)](https://www.python.org)
-## Cantact
+## 📫Cantact
 [![](https://img.shields.io/badge/-gmail-inactive?style=for-the-badge&logo=gmail)](mailto:haniehmahdavi26@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-inactive?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanieh-mahdavi/)
