@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :ocean:HoniO
+# HoniO:ocean:
 ## 🌱About Me
 I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best direction for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
 ## ⚡Languages
