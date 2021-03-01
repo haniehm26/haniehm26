@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github.com/haniehm26/haniehm26/blob/main/Ponyo.gif" width="200" height="200"></img>
-<h3 align="center">:dizzy: I'll come out from this BUBBLE very soon :dizzy:</h3>
+<h3 align="center">:dizzy: I'll burst this BUBBLE very soon :dizzy:</h3>
 </p>
 
 # Honio:ocean:
-
+Some years ago, one of my friends wrongly called me Honio instead of Hanieh. It was just a funny mistake because of the name of Ponyo (it is an Anime). From that day, some call me Honio.
+PS Ponyo was a little fish that burst her bubble to reach her dream.
 ## About Me
 I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in the last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best path for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
 
