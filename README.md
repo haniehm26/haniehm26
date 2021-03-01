@@ -27,6 +27,6 @@ I'm currently a Computer Engineering bachelor's student at Shahid Beheshti Unive
 [![](https://shields.io/badge/-java-yellowgreen?style=for-the-badge&logo=java)](https://www.java.com)
 [![](https://shields.io/badge/-python-yellowgreen?style=for-the-badge&logo=python)](https://www.python.org)
 
-## 📫Cantact
+## 📫Contact
 [![](https://img.shields.io/badge/-gmail-inactive?style=for-the-badge&logo=gmail)](mailto:haniehmahdavi26@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-inactive?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanieh-mahdavi/)
