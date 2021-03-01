@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github.com/haniehm26/haniehm26/blob/main/Ponyo.gif" width="200" height="200"></img>
-<h5 align="center">I'll come out from my BUBBLE very soon :blue_heart:</h5>
+<h5 align="center">I'll come out from this BUBBLE very soon :dizzy:</h5>
 </p>
 
 # Honio:ocean:
 
 ## 🌱About Me
-I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best direction for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
+I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University. I have tried many different fields in the last three and a half last years, from developing Websites and Applications to even trying a hand in Digital Marketing and Search Engine Optimization. But I am still trying to discover the best direction for the rest of my life. I am recently interested in Machine Learning and operating with Data. Maybe this one is the last adventure!
 
 ## ⚡Languages
 [![](https://shields.io/badge/-java-yellowgreen?style=for-the-badge&logo=java)](https://www.java.com)
