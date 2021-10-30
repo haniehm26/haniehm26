@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 # :ocean:Honio
-Some years ago, one of my friends wrongly called me Honio instead of Hanieh. It was just a funny mistake because of the name of Ponyo which is an Anime. From that day, I've chosen Honio as my nickname. Fun fact: I hate Animes 😄
+Some years ago, I was wrongly called Honio instead of Hanieh. It was just a funny mistake because of the name of Ponyo which is an Anime. From that day, I've chosen Honio as my nickname. Fun fact: I hate Animes 😄
 # 🌱About Me
 I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University with a high spirit in learning new materials, interested in Machine Learning and Analyzing Data. Before coming into the ML world, I was adventuring in many various fields to find my future path. My journey started as a Java Programmer, continued as a Back-End Developer, and it was going to end as a Digital Marketer. I came into the machine learning field, after working with different tools for analyzing various data as a digital marketer for about six months, and I wanted to be more than only an end-user.
 
