@@ -29,3 +29,6 @@ I'm currently a Computer Engineering bachelor's student at Shahid Beheshti Unive
 # 📫Contact
 [![](https://img.shields.io/badge/-gmail-inactive?style=for-the-badge&logo=gmail)](mailto:haniehmahdavi26@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-inactive?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanieh-mahdavi/)
+[![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&logo=telegram)](https://virgool.io/@haniehmahdavi26)
+[![](https://img.shields.io/badge/-virgool-inactive?style=for-the-badge&logo=virgool)](https://t.me/honio_notes)
+
