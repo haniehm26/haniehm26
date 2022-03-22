@@ -17,18 +17,28 @@ Here are some ideas to get you started:
   <img src="https://github.com/haniehm26/haniehm26/blob/main/Ponyo.gif" width="200" height="200"></img>
 </p>
 
-# :ocean:Honio
-Some years ago, I was wrongly called Honio instead of Hanieh. It was just a funny mistake because of the name of Ponyo which is an Anime. Since that day, I've chosen Honio as my nickname. Fun fact: I hate Animes 😄
 # 🌱About Me
-I'm currently a Computer Engineering bachelor's student at Shahid Beheshti University with a high spirit in learning new materials, interested in Machine Learning and Analyzing Data. Before coming into the ML world, I was adventuring in many various fields to find my future path. My journey started as a Java Programmer, continued as a Back-End Developer, and it was going to end as a Digital Marketer.
+Hanieh is a recent Computer Engineering graduate from Shahid Beheshti University, interested in Artificial Intelligence, Machine Learning, and Deep Learning, and has been engaged with these topics for about a year. Hanieh's passion is learning new materials and sharing them on the Virgool blog posts. Lately, she took part in a Machine Learning Bootcamp that has led to improving her teamwork skills and implementing a Recommender System based on a Reinforcement Learning model.
+
+Check out my Virgool blog to see published posts:<br>
+[![](https://img.shields.io/badge/-virgool-inactive?style=for-the-badge&logo=virgool&color=blue)](https://virgool.io/@haniehmahdavi26)
+
+Check out my Telegram channel to download PDF files:<br>
+[![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&color=blue)](https://t.me/honio_notes)
+
+# 🍀Experiences
+### Machine Learning Intern @ [Rahnema College](https://rahnemacollege.com/)
+Implemented a News Recommender System based on an Online Reinforcement Learning model in Python.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Cooperated in a four-member group<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed a Deep Q-Network model using Pytorch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Deployed and tracked the model using the MLFlow tool<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Developed a very straightforward back-end using FastAPI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Wrote a Dockerfile and dockerized the whole project
 
 # ⚡Languages
-[![](https://shields.io/badge/-python-yellowgreen?style=for-the-badge&logo=python)](https://www.python.org)
-[![](https://shields.io/badge/-java-yellowgreen?style=for-the-badge&logo=java)](https://www.java.com)
+[![](https://shields.io/badge/-python-yellow?style=for-the-badge)](https://www.python.org)
+[![](https://shields.io/badge/-java-red?style=for-the-badge)](https://www.java.com)
 
 # 📫Contact
-[![](https://img.shields.io/badge/-gmail-inactive?style=for-the-badge&logo=gmail)](mailto:haniehmahdavi26@gmail.com)
-[![](https://img.shields.io/badge/-linkedin-inactive?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanieh-mahdavi/)
-[![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&logo=telegram)](https://virgool.io/@haniehmahdavi26)
-[![](https://img.shields.io/badge/-virgool-inactive?style=for-the-badge&logo=virgool)](https://t.me/honio_notes)
-
+[![](https://img.shields.io/badge/-gmail-red?style=for-the-badge)](mailto:haniehmahdavi26@gmail.com)
+[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/hanieh-mahdavi/)
