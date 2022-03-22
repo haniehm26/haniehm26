@@ -28,12 +28,12 @@ Check out my Telegram channel to download PDF files:<br>
 
 # 🍀Experiences
 ### Machine Learning Intern @ [Rahnema College](https://rahnemacollege.com/)
-Implemented a News Recommender System based on an Online Reinforcement Learning model in Python.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Cooperated in a four-member group<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Designed a Deep Q-Network model using Pytorch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Deployed and tracked the model using the MLFlow tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Developed a very straightforward back-end using FastAPI<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Wrote a Dockerfile and dockerized the whole project
+&nbsp;&nbsp;&nbsp;&nbsp;🤝Cooperated in a four-member group<br>
+&nbsp;&nbsp;&nbsp;&nbsp;👽Implemented a News Recommender System based on RL in Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🕸Designed a Deep Q-Network model using Pytorch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📈Deployed and tracked the model using the MLFlow tool<br>
+&nbsp;&nbsp;&nbsp;&nbsp;💡Developed a very straightforward back-end using FastAPI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐳Wrote a Dockerfile and dockerized the whole project
 
 # ⚡Languages
 [![](https://shields.io/badge/-python-yellow?style=for-the-badge)](https://www.python.org)
