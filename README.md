@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github.com/haniehm26/haniehm26/blob/main/Ponyo.gif" width="200" height="200"></img>
-</p>
-
 # 🌱About Me
-Hanieh is a recent Computer Engineering graduate from Shahid Beheshti University, interested in Artificial Intelligence, Machine Learning, and Deep Learning, and has been engaged with these topics for about a year. Hanieh's passion is learning new materials and sharing them on the Virgool blog posts. Lately, she took part in a Machine Learning Bootcamp that has led to improving her teamwork skills and implementing a Recommender System based on a Reinforcement Learning model.
+A reliable, detail-oriented, and hardworking individual with 2 years of practical experience in the data science field. Hanieh enjoys challenges that help her grow, values continuous learning, and works well as part of a team. Hanieh's passion is learning new materials and sharing them on the Virgool blog posts. 
 
 Check out my Virgool blog to see published posts:<br>
 [![](https://img.shields.io/badge/-virgool-inactive?style=for-the-badge&logo=virgool&color=blue)](https://virgool.io/@haniehmahdavi26)
@@ -27,13 +23,12 @@ Check out my Telegram channel to download PDF files:<br>
 [![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&color=blue)](https://t.me/honio_notes)
 
 # 🍀Experiences
+### Data Scientist @ [Edgecom Energy](https://edgecom.ai/)
+
+### Data Scientist @ [Kilid](https://kilid.com)
+
 ### Machine Learning Intern @ [Rahnema College](https://rahnemacollege.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;🤝Cooperated in a four-member group<br>
-&nbsp;&nbsp;&nbsp;&nbsp;👽Implemented a News Recommender System based on RL in Python<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🕸Designed a Deep Q-Network model using Pytorch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;📈Deployed and tracked the model using the MLFlow tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💡Developed a very straightforward back-end using FastAPI<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🐳Wrote a Dockerfile and dockerized the whole project
+
 
 # ⚡Languages
 [![](https://shields.io/badge/-python-yellow?style=for-the-badge)](https://www.python.org)
