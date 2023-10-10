@@ -23,7 +23,7 @@ Check out my Telegram channel to download PDF files:<br>
 [![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&color=blue)](https://t.me/honio_notes)
 
 # 🍀Experiences
-### Data Scientist @ [Edgecom Energy](https://edgecom.ai/)
+### Data Scientist @ [TiSS](https://edgecom.ai/)
 
 ### Data Scientist @ [Kilid](https://kilid.com)
 
