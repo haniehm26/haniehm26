@@ -22,6 +22,12 @@ Check out my Virgool blog to see published posts:<br>
 Check out my Telegram channel to download PDF files:<br>
 [![](https://img.shields.io/badge/-telegram-inactive?style=for-the-badge&color=blue)](https://t.me/honio_notes)
 
+# 🎓Education
+### M.Sc. in Computer Science @ [Sapienza University](https://www.uniroma1.it/it/)
+
+### B.Sc. in Computer Engineering @ [Shahid Beheshti University](https://en.sbu.ac.ir/)
+
+
 # 🍀Experiences
 ### Data Scientist @ [TiSS](https://edgecom.ai/)
 
